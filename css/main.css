@@ -38,12 +38,11 @@ header ul li a {
 	padding-right:30px;
 }
 header ul{
-float: right;
+	float: right;
 }
-header img{
-	margin-right: auto;
-	margin-left: auto;
-	width: 100%
+.container {
+  position: relative;
+  text-align: center;
 }
 .centered {
   position: absolute;
