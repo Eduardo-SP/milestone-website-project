@@ -38,12 +38,12 @@ header ul li a {
 	padding-right:30px;
 }
 header ul{
-	padding-left: 959px;
-	padding-top: 25px;
+float: right;
 }
-.container {
-  position: relative;
-  text-align: center;
+header img{
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%
 }
 .centered {
   position: absolute;
@@ -118,6 +118,9 @@ span
 	padding-left: 10px;
 	padding-right: 10px;
 }
+#contact {
+	color: #ffffff;
+}
 #contact h2{
 	clear:both;
 	color: #01fa82;
@@ -128,18 +131,15 @@ span
 }
 
 #contact h3{
-		color: #ffffff;
 	font-family: 'Rubik', sans-serif;
 	font-size: 35px;
 }
 #contact a{
 	text-decoration: none;
-	color: #ffffff;
 	font-family: 'Rubik', sans-serif;
 	font-size: 25px;
 }
 #contact p{
-	 color: #ffffff;
 	 font-family: 'Rubik', sans-serif;
 	 font-size: 25px;
 }
